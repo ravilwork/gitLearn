@@ -1,3 +1,4 @@
 Первое изменение Равиль
 Создана ветка secondCheckout, Внесены изменения.
 ветка secondBranch. Внесены изменения
+"Ветка SecondBranch, добавлен файл gitCommand.txt"
